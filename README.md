@@ -20,4 +20,8 @@ Strengthened skills in business intelligence and data storytelling
 HR Attrition Analysis
 Workforce Planning & Retention Strategy
 Business Intelligence Reporting
-https://github.com/user-attachments/assets/f295b45f-410b-401d-82f5-7126dfa8689a
+
+
+https://github.com/user-attachments/assets/fe8777fd-ad9f-4dea-a9b2-c199c197d8fe
+
+
